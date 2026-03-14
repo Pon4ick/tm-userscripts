@@ -1,14 +1,19 @@
 // ==UserScript==
 // @name         NoEMP
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  NoEMP
 // @author       Pon4ick
 // @match        https://kb.bvbinfo.ru/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/Pon4ick/NoEMP/refs/heads/main/noemp.user.js?ts=1
-// @downloadURL  https://raw.githubusercontent.com/Pon4ick/NoEMP/refs/heads/main/noemp.user.js?ts=1
+// @updateURL    https://raw.githubusercontent.com/Pon4ick/tm-userscripts/raw/refs/heads/main/NoEMP/noemp.user.js?ts=1
+// @downloadURL  https://raw.githubusercontent.com/Pon4ick/tm-userscripts/raw/refs/heads/main/NoEMP/noemp.user.js?ts=1
 // ==/UserScript==
+
+/* Updates:
+ *     - Change UpdateURL and DownloadURL
+ *     - Script moved to new repository
+*/
 
 (function() {
     'use strict';
