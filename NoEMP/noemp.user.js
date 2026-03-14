@@ -6,8 +6,8 @@
 // @author       Pon4ick
 // @match        https://kb.bvbinfo.ru/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/Pon4ick/tm-userscripts/raw/refs/heads/main/NoEMP/noemp.user.js?ts=1
-// @downloadURL  https://raw.githubusercontent.com/Pon4ick/tm-userscripts/raw/refs/heads/main/NoEMP/noemp.user.js?ts=1
+// @updateURL    https://raw.githubusercontent.com/Pon4ick/tm-userscripts/refs/heads/main/NoEMP/noemp.user.js?ts=1
+// @downloadURL  https://raw.githubusercontent.com/Pon4ick/tm-userscripts/refs/heads/main/NoEMP/noemp.user.js?ts=1
 // ==/UserScript==
 
 /* Updates:
